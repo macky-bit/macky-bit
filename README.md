@@ -3,10 +3,6 @@
 </p><h1 align="center">Hey, I'm Mark 👋</h1><p align="center">
   <b>IT student · Building for the web and mobile · Exploring AI</b><br />
   Turning ideas into useful applications, one project at a time.
-</p><p align="center">
-  <a href="https://github.com/macky-bit?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-2356D5?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
-  <a href="https://github.com/macky-bit"><img src="https://img.shields.io/badge/%40macky--bit-172B59?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: macky-bit" /></a>
-</p>/ About me
 I'm an Information Technology student interested in web development, mobile applications, and practical uses of AI. I enjoy working through the whole journey: planning an idea, designing the interface, and bringing it to life in code.
 - Building: Quiz Arena, an interactive learning and quiz platform.
 - Exploring: AI-assisted learning, computer vision, and low-bandwidth experiences.
@@ -35,7 +31,7 @@ Classroom insights	Quiz analytics, performance tracking, and answer reviews
 Accessibility	Low-bandwidth support and offline study materials
 
 
-<!-- Add the Quiz Arena repository link here when you are ready to share it. -->/ Around my repositories
+
 Project	Language	Source
 BinayFlix	TypeScript	View repository ↗
 maam-gen_mobileVer	Dart	View repository ↗
@@ -51,4 +47,4 @@ RMBTANKS_FINAL	Java	View repository ↗
 </details><p align="center">
   <b>Learn. Build. Improve. Repeat.</b><br />
   <sub>Thanks for stopping by — take a look around my repositories.</sub>
-</p><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2356D5,50:172B59,100:0D1117&height=110&section=footer" alt="Blue wave footer" width="100%" /><!-- Design assets use Capsule Render and Shields.io. Their availability depends on those external services. -->
+</p><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2356D5,50:172B59,100:0D1117&height=110&section=footer" alt="Blue wave footer" width="100%" />
